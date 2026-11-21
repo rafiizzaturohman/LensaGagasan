@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-cormorant: "Cormorant Garamond", sans-serif;
+  --color-soft-cream: #FFFDF5
+}
