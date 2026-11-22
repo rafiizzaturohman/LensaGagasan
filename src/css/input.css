@@ -4,3 +4,8 @@
   --font-cormorant: "Cormorant Garamond", sans-serif;
   --color-soft-cream: #FFFDF5
 }
+
+[href*="netlify"],
+[class*="netlify"] {
+  display: none !important;
+}
